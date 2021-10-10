@@ -64,3 +64,8 @@ class Solution {
         return nums.count
     }
 }
+var nums = [1,6,4,5,6,2,7]
+
+Solution().removeDuplicates(&nums)
+
+
